@@ -1,0 +1,41 @@
+*{
+  font-family: 'Merriweather', serif;
+}
+
+
+
+.navbar .navbar-nav .nav-link,
+.navbar .navbar-brand {
+  color: #6f42c1; 
+}
+
+h2 {
+  color: gray;
+}
+
+h1 {
+  color: #6f42c1;
+}
+
+.carousel-caption {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  text-align: center;
+  color: gray;
+}
+
+.carousel-caption h3 {
+  color: gray;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.custom-bg-purple {
+  background-color: #6f42c1; 
+  border-color: #6f42c1; 
+  color: gray;
+}
